@@ -1,0 +1,33 @@
+.fieldset {
+    width: 100vw;
+    height: 100vh;
+    background: #e4e3e3;
+    
+    
+}
+
+
+.chatList{
+    height: 80vh;
+    display: flex;
+}   
+
+.chat{
+    height: 67vh;
+}
+
+.Input{
+    width: 50vw;
+}
+
+.listChat{
+    width: 15vw;
+    height: 76vh;
+    margin-top: 0.9cm;
+    margin-right: 1cm;
+}
+
+.fieldChat{
+    width: 50vw;
+    height: 80vh;
+}
